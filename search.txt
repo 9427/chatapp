@@ -1,0 +1,12 @@
+./vendor/facade/ignition/src/Commands/TestCommand.php
+./vendor/nesbot/carbon/src/Carbon/CarbonPeriod.php
+./vendor/nikic/php-parser/lib/PhpParser/ParserAbstract.php
+./vendor/egulias/email-validator/EmailValidator/Validation/DNSCheckValidation.php
+./vendor/egulias/email-validator/EmailValidator/Parser/DomainPart.php
+./vendor/egulias/email-validator/EmailValidator/Parser/Parser.php
+./vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadEnvironmentVariables.php
+./vendor/laravel/framework/src/Illuminate/Routing/RouteCollection.php
+./vendor/laravel/framework/src/Illuminate/Validation/Concerns/ValidatesAttributes.php
+./vendor/laravel/framework/src/Illuminate/Support/MessageBag.php
+./vendor/mockery/mockery/library/Mockery/Container.php
+./vendor/mockery/mockery/library/Mockery/Adapter/Phpunit/MockeryPHPUnitIntegration.php
