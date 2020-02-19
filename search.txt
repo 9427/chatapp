@@ -10,3 +10,17 @@
 ./vendor/laravel/framework/src/Illuminate/Support/MessageBag.php
 ./vendor/mockery/mockery/library/Mockery/Container.php
 ./vendor/mockery/mockery/library/Mockery/Adapter/Phpunit/MockeryPHPUnitIntegration.php
+public/js/app.js
+public/css/web.css
+resources/js/components/GroupChat.vue
+node_modules/bootstrap-sass/assets/fonts/bootstrap/glyphicons-halflings-regular.ttf
+node_modules/bootstrap-sass/assets/fonts/bootstrap/glyphicons-halflings-regular.svg
+node_modules/bootstrap-sass/assets/stylesheets/_bootstrap.scss
+node_modules/bootstrap-sass/assets/stylesheets/bootstrap/_forms.scss
+node_modules/bootstrap-sass/assets/stylesheets/bootstrap/_carousel.scss
+node_modules/bootstrap-sass/assets/stylesheets/bootstrap/_glyphicons.scss
+node_modules/bootstrap-sass/assets/stylesheets/bootstrap/_variables.scss
+node_modules/bootstrap-sass/CHANGELOG.md
+public/js/app.js
+public/css/web.css
+resources/js/components/GroupChat.vue

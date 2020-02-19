@@ -2,7 +2,7 @@
 
 namespace App;
 
-use Illuminate\Contracts\Auth\MustVerifyEmail;
+use App\Group;
 use Illuminate\Foundation\Auth\User as Authenticatable;
 use Illuminate\Notifications\Notifiable;
 
@@ -28,17 +28,8 @@ class User extends Authenticatable
         'password', 'remember_token',
     ];
 
-    /**
-     * The attributes that should be cast to native types.
-     *
-     * @var array
-     */
-    protected $casts = [
-        'email_verified_at' => 'datetime',
-    ];
-    
-    public function messages()
+    public function groups()
     {
-	    return $this->hasMany(Message::class);
+        return $this->belongsToMany(Group::class)->withTimestamps();
     }
 }
